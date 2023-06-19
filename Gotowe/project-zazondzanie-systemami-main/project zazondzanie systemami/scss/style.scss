@@ -1,0 +1,27 @@
+ // just need import files this command : @import
+//exemple: @import "plugins/magnific-popup";
+
+@charset "utf-8";
+
+
+//import mixins
+@import "mixins";
+
+//import zero-style абнуление стилей
+@import "zero";
+
+//import fonts
+@import "fonts";
+
+//import fonts
+@import "index";
+
+//import Interfejs lekarza
+@import "Interfejs-lekarza";
+
+//import Interfejs lekarza
+@import "Interfejs-Pacjenta";
+
+//import Interfejs lekarza
+@import "Interfejs-Ksiengowej";
+
